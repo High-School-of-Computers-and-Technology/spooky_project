@@ -1,4 +1,4 @@
-Here’s a sample assignment prompt in Markdown format for adding spooky eyes to the pumpkin and allowing the background color of the page to be changed with JavaScript.
+
 
 ---
 
@@ -132,7 +132,8 @@ bgColorPicker.addEventListener('input', (event) => {
 
 Once you have completed the assignment:
 
-- Take a screenshot of the pumpkin with spooky eyes and changed background.
-- Submit your HTML, CSS, and JavaScript files for review. 
+- Commit Changes
+- Look out for notifications of  HTML, CSS, and JavaScript files for review.
+- Any required changes will be under issues
 
 Good luck, and have fun making your pumpkin spooky! 🎃
